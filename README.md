@@ -28,5 +28,6 @@ yarn start
 
 ## Credits
 
+- [Create a 3D multi-player game using THREE.js and Socket.IO](https://www.udemy.com/course/create-a-3d-multi-player-game-using-threejs-and-socketio/)
 - [Typescript Three.js Webpack Starter](https://github.com/pinqy520/three-typescript-starter)
 - [Simple People Pack](https://www.cgtrader.com/3d-models/character/fantasy/simple-people-cartoon-assets)
