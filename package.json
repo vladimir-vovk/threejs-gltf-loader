@@ -1,0 +1,37 @@
+{
+  "name": "threejs-gltf-loader",
+  "version": "1.0.0",
+  "description": "Three.js GLTF loader example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --inline --open",
+    "build": "NODE_ENV=production webpack -p --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": ["three.js", "gltf", "model", "animation"],
+  "author": "Vladimir Vovk",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "@types/three": "^0.103.2",
+    "awesome-typescript-loader": "latest",
+    "css-loader": "latest",
+    "html-webpack-plugin": "latest",
+    "progress-bar-webpack-plugin": "latest",
+    "style-loader": "latest",
+    "typescript": "latest",
+    "webpack": "latest",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "latest"
+  },
+  "dependencies": {
+    "three": "^0.117.1"
+  }
+}
