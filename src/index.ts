@@ -3,7 +3,6 @@ import './style.css'
 
 import * as THREE from 'three'
 import { WEBGL } from 'three/examples/jsm/WebGL'
-import { FBXLoader } from 'three/examples/jsm/loaders/FBXLoader'
 import { GLTFLoader, GLTF } from 'three/examples/jsm/loaders/GLTFLoader'
 import { Material, Texture, AnimationMixer, AnimationAction } from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
